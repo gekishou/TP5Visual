@@ -1,0 +1,11 @@
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\bin\Debug\TP5Visual.exe.config
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\bin\Debug\TP5Visual.exe
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\bin\Debug\TP5Visual.pdb
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\obj\Debug\TP5Visual.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\obj\Debug\TP5Visual.FormLibro.resources
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\obj\Debug\TP5Visual.FormMain.resources
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\obj\Debug\TP5Visual.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\obj\Debug\TP5Visual.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\obj\Debug\TP5Visual.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\obj\Debug\TP5Visual.exe
+C:\Users\Gonzalo\Desktop\csharp\TP5Visual\TP5Visual\obj\Debug\TP5Visual.pdb
